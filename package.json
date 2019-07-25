@@ -19,6 +19,7 @@
   ],
   "license": "MIT",
   "repository": "nodeca/argparse",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "make test"
   },
